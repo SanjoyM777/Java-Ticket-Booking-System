@@ -1,3 +1,7 @@
+# 🎫 Java Ticket Booking System
+
+A **console-based railway ticket booking system** built with Java, simulating real-world railway reservation functionality. This project showcases clean backend logic, modular object-oriented design, and CRUD operations—all wrapped up in a user-friendly terminal interface.
+
 ## 📌 Features
 
 - 🔐 **User Authentication** — Sign up & login system
